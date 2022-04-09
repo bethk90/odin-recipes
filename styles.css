@@ -1,0 +1,23 @@
+* {
+    font-family: Helvetica, sans-serif;
+    color: teal;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: "Brush Script MT", serif;
+}
+
+ul {
+    background-color: gray;
+    text-align: center;
+}
+
+ol {
+    background-color: lightpink;
+    text-align: left;
+}
+
+a {
+    background-color: lightblue;
+}
